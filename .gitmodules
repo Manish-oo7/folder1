@@ -1,0 +1,3 @@
+[submodule "folder2"]
+	path = folder2
+	url = https://github.com/Manish-oo7/folder2.git
